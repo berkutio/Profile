@@ -1,0 +1,12 @@
+/* Styles for larger screens */
+.card {
+    margin: 5px;
+    align-self: center;
+}
+
+@media screen and (min-width: 720px) {
+  
+    .flex {
+        flex-direction: column;
+    }  
+}
