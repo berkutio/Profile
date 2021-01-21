@@ -1,3 +1,15 @@
+@charset "utf-8";
+
+/*
+
+   PHCT Typographic Style Sheet
+   Author: Ihor Shvedenenko 
+   Date: 01/21/21   
+   
+   Filename: styles_experience.css
+
+*/
+
 /* Styles for larger screens */
 .card {
     margin: 5px;
@@ -5,7 +17,11 @@
 }
 
 .card ul {
-    padding-inline-start: 20px;
+    padding-left: 0px;
+}
+
+.card ul li {
+    list-style-position: inside;
 }
 
 

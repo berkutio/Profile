@@ -1,3 +1,15 @@
+@charset "utf-8";
+
+/*
+
+   PHCT Typographic Style Sheet
+   Author: Ihor Shvedenenko 
+   Date: 01/21/21   
+   
+   Filename: styles.css
+
+*/
+
 /* Global Layout Set-up */
 * { 
   box-sizing: border-box;
